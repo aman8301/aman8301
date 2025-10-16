@@ -7,7 +7,7 @@
 
 ## 🧑‍💼 About Me
 
-- 🚀 Currently working at **Creed Infotech**, contributing to robust web and API-based solutions  
+- 🚀 Currently working at **Creed Infotech** for the past **1.5 years**, contributing to robust web and API-based solutions  
 - 🧠 2+ years of experience as an **Ex-Employee at Persistent Systems**  
 - 🌱 Continuously expanding my knowledge in **cloud technologies**, **modern frameworks**, and **AI integrations**  
 - 🤝 Strong believer in **teamwork**, clean code, and continuous learning
@@ -36,12 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Amandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-
 > ✨ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
 
 ---
@@ -58,9 +52,8 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amandeep-singh-068a0517b)  
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:amandeepsingh83200@gmail.com)
 
 ---
 
