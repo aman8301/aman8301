@@ -1,23 +1,75 @@
-# 👋 Hi, I'm Rexx Proton
+# 👋 Hi, I'm Amandeep Singh
 
-🎓 Computer Science Student | 💻 Full Stack Developer | 🌱 Currently learning AI & React
+💻 **Full Stack Developer | API Specialist | Tech Enthusiast**  
+🌟 Passionate about building modern, scalable, and secure applications using cutting-edge technologies.
 
-- 🚀 Building projects using **Spring Boot + React**
-- 🐶 Working on an e-commerce site for pets: [Bowlfull Buddies](https://github.com/rexx-proton/bowlfull-buddies)
-- 🧠 Learning JavaScript & AI step by step
-- 🏏 Love cricket & competitive games like BGMI
+---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
-- **Backend:** Java, Spring Boot, Hibernate, MySQL  
-- **Other:** Git, GitHub, VS Code, Postman
+## 🧑‍💼 About Me
+
+- 🚀 Currently working at **Creed Infotech**, contributing to robust web and API-based solutions  
+- 🧠 2+ years of experience as an **Ex-Employee at Persistent Systems**  
+- 🌱 Continuously expanding my knowledge in **cloud technologies**, **modern frameworks**, and **AI integrations**  
+- 🤝 Strong believer in **teamwork**, clean code, and continuous learning
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 **Frontend**
+- HTML | CSS | JavaScript | React.js
+
+### ⚙️ **Backend**
+- Java | Spring Boot | Node.js | RESTful APIs
+
+### 🧠 **APIs & Tools**
+- Apigee | Okta (Authentication) | Postman | API Design & Integration
+
+### 🗄️ **Databases**
+- SQL | PostgreSQL
+
+### 🧰 **Other Tools**
+- Git & Version Control | Prompt Engineering | VS Code | IntelliJ IDEA
+
+### 🌐 **Soft Skills**
+- Teamwork | Problem Solving | Quick Learner | Adaptability
+
+---
 
 ## 📊 GitHub Stats
-![Rexx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rexx-proton&show_icons=true&theme=radical)
 
-## 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-proton&layout=compact&theme=radical)
+![Amandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+> ✨ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+
+---
+
+## 🌟 Featured Projects
+
+- 🐾 **[Bowlfull Buddies](#)** — A modern e-commerce platform for pet products using React & Spring Boot  
+- 🔐 **[Secure API Gateway](#)** — Implemented authentication & API management using Apigee & Okta  
+- 🧠 **[Prompt Engineering Toolkit](#)** — A collection of advanced AI prompts and integration examples
+
+*(Replace `#` with your project repo links)*
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+---
+
+## 📝 Currently Exploring
+
+- ☁️ Cloud platforms (AWS / GCP)  
+- 🧩 Microservices Architecture  
+- 🤖 AI & Prompt Engineering for app enhancement
+
+---
+
+⭐ **Feel free to explore my repositories and reach out for collaborations!**
